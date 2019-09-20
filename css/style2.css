@@ -1,0 +1,28 @@
+* {
+    font-family: 'Big Shoulders Display', cursive;
+}
+.main-square {
+    background-color: rgb(196, 154, 250);
+    width: 700px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+.main-square > div {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-top: 35%;
+    text-align: center;
+}
+.red {
+    margin-left: 6%;
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.blue {
+    background-color: blue;
+}

@@ -1,0 +1,41 @@
+* {
+    font-family: 'Big Shoulders Display', cursive;
+    /* border: 1px solid red;*/
+}
+.ul-inline {
+    background-color: turquoise;
+    width: 50%;
+}
+.ul-inline li {
+    display: inline;
+    background-color:greenyellow;
+}
+.ul-inline-block {
+    background-color: lavender;
+    width: 100%;
+}
+.ul-inline-block li{
+    display: inline-block;
+    background-color: aliceblue;
+    width: 15%;
+    padding: 15px;
+    text-align: center;
+    color: #222;
+}
+.ul-block {
+    background-color: greenyellow;
+    width: 100%;
+    color:green;
+}
+.ul-block li {
+    display: block;
+    width: 20%;
+    margin: 0 auto;
+    height: 50px;
+    background-color: aquamarine;
+    border: 1px solid salmon;
+}
+.ui-block-wrapper {
+    margin: 0 auto;
+    width: 100%;
+}
